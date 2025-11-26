@@ -12,3 +12,5 @@ The two folders contain code for separate analyses as follows:
 
 •	Protein EpiScores (GMRM) – episcores/
 
+The associated zenodo archive is at https://doi.org/10.5281/zenodo.17589713.
+
